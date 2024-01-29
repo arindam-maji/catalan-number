@@ -1,2 +1,2 @@
 # catalan-number
-Here we learn about dynamic programming concept.
+Here we will learn about dynamic programming concept.
